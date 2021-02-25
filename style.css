@@ -1,0 +1,167 @@
+header ul {
+list-style-type: none;
+overflow: hidden;
+background-color: grey;
+margin: -5px;
+margin-top: 4.5px;
+list-style: none;
+border: solid 2px  grey;
+width: 68.85%;
+}
+/*---------------------SECTION_BREAK---------------------*/
+header li {
+float: left;
+align-items: center;
+background-color: black;
+}
+/*---------------------SECTION_BREAK---------------------*/
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 16px;
+text-decoration: none;
+padding-right: 49.125px ;
+padding-left: 49.125px;}
+/*---------------------SECTION_BREAK---------------------*/
+li a:hover {
+background-color: #555555;
+cursor: pointer;
+}
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: white;
+background-image: url('https://raw.githubusercontent.com/TatvaGlobalSchool/technologyofthefuture/main/Background.jpeg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+/*---------------------SECTION_BREAK---------------------*/
+.Button{
+background-color: none;
+border: none;
+color: black;
+height: 20px;
+width: 10%;
+border-radius: 72px;
+margin: 10px;
+border-color: blue;
+border-width: 5px;}
+button:hover{
+background-color: blue;
+color: white;}
+/*---------------------SECTION_BREAK---------------------*/
+
+.col-sm-4{
+width: 40%;}
+.col-sm-6{
+  width: 60%;
+  float: right;
+}
+.col-sm-7{
+width: 70%;
+float: right;
+}
+/*---------------------SECTION_BREAK---------------------*/
+
+.dropbtn {
+  background-color: black;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+/*---------------------SECTION_BREAK---------------------*/
+
+.drpdn {
+  display: block;
+}
+/*---------------------SECTION_BREAK---------------------*/
+
+.drpdn-content {
+  display: none;
+  position: absolute;
+  background-color: black;
+ min-width: 189px;
+margin-top: 51.5px;
+  box-shadow: 0px 8px 16px 0px black;
+  z-index: 1;
+margin-left: 215.65px;
+}
+/*---------------------SECTION_BREAK---------------------*/
+
+.drpdn-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+    color: white;
+}
+/*---------------------SECTION_BREAK---------------------*/
+.drpdn-content a:hover {
+background-color: grey;
+}
+/*---------------------SECTION_BREAK---------------------*/
+
+.drpdn:hover .drpdn-content {
+display: block;
+}
+/*---------------------SECTION_BREAK---------------------*/
+
+.drpdn:hover .dropbtn {
+background-color: grey;
+}
+/*---------------------SECTION_BREAK---------------------*/
+.col-sm-4{
+  width: 40%;
+}
+/*---------------------SECTION_BREAK---------------------*/
+
+.col-sm-6{
+  width: 60%;
+  float: right;
+}
+/*---------------------SECTION_BREAK---------------------*/
+
+.Image{
+  height: 100px;
+  width: 150px;
+}
+/*---------------------SECTION_BREAK---------------------*/
+
+.Images{
+  margin-top: -285px;
+}
+/*---------------------SECTION_BREAK---------------------*/
+  .container{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  /*---------------------SECTION_BREAK---------------------*/
+
+
+
+  .img-thumbnail{
+    border-radius: 2px;
+    width: 25%;
+    height: 10%;
+    border: thin 1px white;
+  }
+  /*---------------------SECTION_BREAK---------------------*/
+
+  
+  .Image{
+    height: 200px;
+    width: 250px;
+  }
+  /*---------------------SECTION_BREAK---------------------*/
+
+  .Images{
+    margin-top: -285px;
+  }
+  hr{
+    width: 500px;
+  }
+  /*---------------------SECTION_BREAK---------------------*/
